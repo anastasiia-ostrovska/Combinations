@@ -1,0 +1,13 @@
+{
+  "name": "combinations",
+  "version": "1.0.0",
+  "description": "script that returns an array of all possible combinations with dots between letters in passed string",
+  "main": "combinations.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
